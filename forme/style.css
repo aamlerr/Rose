@@ -1,0 +1,21 @@
+
+body{
+    background-image: url('background/yeah.png');
+    height: 90%;
+    font-weight: 100%;
+    background-size: 90%;
+    
+}
+
+.rain {
+    width: 400px;
+    height: 400px;
+}
+
+body:hover {
+    background-image: url('background/yeah2.png');
+    cursor: url('background/pluieee.png'), auto;
+}
+
+
+
